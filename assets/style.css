@@ -1,0 +1,40 @@
+h1 {
+    text-align: left;
+    color: #111111;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #EEE;
+}
+
+.score {
+    color: gray;
+}
+
+.gold {
+    color: gold;
+}
+
+#gameLink {
+    text-align: center;
+    border: 1px white;
+}
+
+#greeting-form {
+    position: absolute;
+    left: 1%;
+    top: 70%;
+    background: #fff;
+    width: 350px;
+    height: 300px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+
+p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.42857143;
+    color: #111111;
+    background-color: #EEE;
+}
